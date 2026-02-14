@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm ToxSam
 
-<!--
-**ToxSam/ToxSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 3D Artist & Metaverse Builder
 
-Here are some ideas to get you started:
+Creator of **Cool Banana, Butter, Mushy, Skully** and hundreds more — the most used VR avatars in the world 🌍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 **What I Do:**
+- Create cool avatars & 3D worlds that millions of people actually use
+- Maintain open source registries of [VRM avatars](https://github.com/ToxSam/open-source-avatars) and [3D assets](https://github.com/ToxSam/open-source-3D-assets)
+- Build tools and games for the metaverse
+- Champion open source 3D content and the VRM format
+
+📊 **By The Numbers:**
+- 15+ years creating 3D experiences
+- 300+ open source avatars released
+- 10M+ avatar users worldwide
+- Built experiences for Forbes & Yuga Labs
+- Ex CEO of Polygonal Mind, CryptoAvatars and VIPE
+
+🔧 **Currently Building:**
+Open source registries to make quality 3D content accessible to everyone. Because the metaverse should be open.
+
+🌐 [toxsam.com](https://toxsam.com) • 🐦 [@toxsam](https://x.com/toxsam)
