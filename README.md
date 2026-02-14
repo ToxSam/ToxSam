@@ -18,6 +18,9 @@ Creator of **Cool Banana, Butter, Mushy, Skully** and hundreds more — the most
 - Ex CEO of Polygonal Mind, CryptoAvatars and VIPE
 
 🔧 **Currently Building:**
-Open source registries to make quality 3D content accessible to everyone. Because the metaverse should be open.
+Open source registries amd websites to make quality 3D content accessible to everyone. Because the metaverse should be open.
+
+[Open Source Avatars](https://www.opensourceavatars.com/)
+[Open Source 3D assets](https://www.opensource3dassets.com/)
 
 🌐 [toxsam.com](https://toxsam.com) • 🐦 [@toxsam](https://x.com/toxsam)
